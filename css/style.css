@@ -78,13 +78,17 @@
   height: 100%;
 }
 
+.header.header-d {
+  padding: 5px;
+}
+
 img.logo-header {
   width: 64px;
   height: auto;
 }
 
 .header-content{
-  padding: 22px 0px 0px 0px;
+  padding: 0px;
 }
 
 .header-content > h1{
