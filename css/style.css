@@ -78,10 +78,9 @@
   height: 100%;
 }
 
-img.logo-header{
-  width: 110px;
+img.logo-header {
+  width: 64px;
   height: auto;
-  padding-bottom: 10px;
 }
 
 .header-content{
@@ -588,7 +587,7 @@ p.game-section-p{
   border-width: 1px;
   border-image-source: radial-gradient(circle at 50.4% 50.5%, rgb(223, 223, 226) 0%, rgba(80, 80, 80, 0.205) 90%);
   background: #000000;
-  padding: 30px 15px 20px 15px;
+  padding: 20px 15px 20px 15px;
   text-align: center;
   position: relative;
   bottom: -5px;
@@ -601,7 +600,12 @@ p.game-section-p{
 }
 
 .footer-license-images img {
-  padding: 5px 8px 25px 8px;
+  padding: 5px 8px 5px 8px;
+}
+
+footer img.footer-ico-01{
+  max-width:130px;
+  padding: 0px;
 }
 
 footer img.footer-ico{

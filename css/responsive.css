@@ -72,7 +72,7 @@
     }
 
     img.logo-header {
-        padding-bottom: 20px;
+        padding-bottom: 10px;
     }
 
     .about-section {
@@ -82,6 +82,15 @@
     .about-h2 {
         font-size: 30px;
         line-height: 38px;
+    }
+
+    .header-content {
+        padding: 0px 0px 0px 0px;
+    }
+
+    img.logo-header {
+        width: 55px;
+        height: auto;
     }
 
     .about-p {
@@ -409,7 +418,7 @@
         align-items: center;
         justify-content: center;
         flex-wrap: wrap;
-        margin-bottom: 25px;
+        margin-bottom: 8px;
     }
 
     .footer-cp-bg.pb-3 {
@@ -779,7 +788,11 @@
         align-items: center;
         justify-content: center;
         flex-wrap: wrap;
-        margin-bottom: 25px;
+        margin-bottom: 5px;
+    }
+
+    img.logo-header {
+        padding-bottom: 0px !important;
     }
 
     footer img.footer-ico {
